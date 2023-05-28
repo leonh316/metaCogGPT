@@ -1,0 +1,2 @@
+# metaCogGPT
+Framework for metacognition.
